@@ -1,7 +1,7 @@
 ## **Industry / Practitioner Case Studies & Whitepapers**
 
 1. **From Legacy to Lakehouse**
-   A whitepaper describing migration from legacy data platforms to a lakehouse architecture (includes challenges, best practices, and use cases). ([scalableai.com][1]{:target="_blank"})
+   A whitepaper describing migration from legacy data platforms to a lakehouse architecture (includes challenges, best practices, and use cases). ([scalableai.com][1])
 
 2. **Driving Fast Value from Data Modernization (NTT Data)**
    A practitioner-oriented whitepaper showing end-to-end modernization strategy, with planning and design phases. ([es.nttdata.com][2])
